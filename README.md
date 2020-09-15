@@ -21,7 +21,7 @@ About me
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true,card_width=300&theme=prussian) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimalCat-Real&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true,card_width300&theme=prussian) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimalCat-Real&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
