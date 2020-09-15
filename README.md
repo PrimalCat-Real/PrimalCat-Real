@@ -23,7 +23,7 @@ About me
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true card_width="300px"&theme=prussian) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimalCat-Real&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oPrimalCat-Real&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimalCat-Real&theme=radical&hide_langs_below=1&layout=compact" />
 
 ~~The world is flat.~~
 
