@@ -26,9 +26,7 @@ About me
 
 ## Projects
 
-<p align="center">
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=prussian)
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimalCat-Real&theme=prussian&hide_langs_below=1&layout=compact" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=prussian)
+
   
-</p>
 
