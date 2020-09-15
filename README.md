@@ -19,7 +19,7 @@ About me
 }
 ``` 
 
-<img align="right" alt="lamp" width="120px" scr="https://www.clipartmax.com/png/middle/444-4449942_vintage-light-bulb-vector-light-bulb-logo-black-and-white.png">
+<img align="right" alt="lamp" scr="https://www.clipartmax.com/png/middle/444-4449942_vintage-light-bulb-vector-light-bulb-logo-black-and-white.png">
 
 ~~The world is flat.~~
 
