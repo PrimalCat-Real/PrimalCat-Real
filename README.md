@@ -19,8 +19,8 @@ About me
 }
 ``` 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=radical)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=material-palenight)
 
 ~~The world is flat.~~
 
