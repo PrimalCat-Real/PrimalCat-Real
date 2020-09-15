@@ -25,6 +25,6 @@ About me
 
 ## Projects
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PrimalCat-Real&repo=github-readme-stats&theme=prussian)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=prussian)
 
 
