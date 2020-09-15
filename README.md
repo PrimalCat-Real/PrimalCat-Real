@@ -20,11 +20,7 @@ About me
 ``` 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/PrimalCat-Real&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=/PrimalCat-Real&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
-</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=radical)
 
 ~~The world is flat.~~
 
