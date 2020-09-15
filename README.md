@@ -12,7 +12,7 @@ import this
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=773EA4)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=F17169)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F8C52C)
 
 ## Little of statistics my GitHub
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=prussian) 
