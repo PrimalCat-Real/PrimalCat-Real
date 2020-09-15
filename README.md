@@ -20,8 +20,8 @@ About me
 ``` 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/PrimalCat-Real&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=/PrimalCat-Real&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
 ~~The world is flat.~~
