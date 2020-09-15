@@ -19,7 +19,10 @@ About me
 }
 ``` 
 
-<img align="right" alt="lamp" scr="https://www.clipartmax.com/png/middle/444-4449942_vintage-light-bulb-vector-light-bulb-logo-black-and-white.png">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+</p>
 
 ~~The world is flat.~~
 
