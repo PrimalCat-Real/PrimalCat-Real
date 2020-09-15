@@ -9,7 +9,7 @@
 import this
 ``` 
 ### Names, this uniqueness left by the developers attracted me
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=773EA4)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=CC99D0)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=F17169)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F8C52C)
