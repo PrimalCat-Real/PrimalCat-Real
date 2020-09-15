@@ -12,7 +12,7 @@ import this
 ``` 
 ### Names, this uniqueness left by the developers attracted me
 
-## Little fun stuff
+## Little of statistics my GitHub
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=prussian) 
 # Projects
 ### Some may be thrown through the one that bothers me
