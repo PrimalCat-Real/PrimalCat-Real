@@ -3,16 +3,16 @@
 ## Bio
 ### Nothin about me, now:)
 
-# Languges
-### I thought for a long time what is my favorite language for changing. As a result, share Python through one very simple but interesting thing
-```
-import this
-``` 
-### Names, this uniqueness left by the developers attracted me
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=CC99D0)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=F17169)
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F8C52C)
+
+# Education
+Currently studying Computer Science at DUT University, Kiev Ukraine.
+### Skills
+- Proficient in ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=CC99D0), ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F8C52C), Java,![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=F17169), and C++
+- Familiar with Vue.js, Nuxt.js, React, and TypeScript
+- Experience with SQL and Django for backend development
+
+
+
 
 ## Little of statistics my GitHub
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=prussian) 
