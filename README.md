@@ -15,6 +15,4 @@ Currently studying Computer Science at DUT University, Kiev Ukraine.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=prussian) 
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=prussian)
-
 
