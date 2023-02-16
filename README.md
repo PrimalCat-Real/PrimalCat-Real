@@ -7,7 +7,7 @@ Nothin about me, now:)
 Currently studying Computer Science at DUT University, Kiev Ukraine.
 
 ## Skills
-- Proficient in Python, JavaScript, Java, Kotlin, and C++
+- Proficient in Python, JavaScript, Java, Kotlin, and some C++, Rust
 - Familiar with Vue.js, Nuxt.js, React, and TypeScript
 - Experience with SQL and Django for backend development
 
