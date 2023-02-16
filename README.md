@@ -11,7 +11,7 @@ Currently studying Computer Science at DUT University, Kiev Ukraine.
 - Familiar with Vue.js, Nuxt.js, React, and TypeScript
 - Experience with SQL and Django for backend development
 
-## Little of statistics my GitHub
+## Some statistics from my GitHub
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrimalCat-Real&show_icons=true&theme=prussian) 
 
 
